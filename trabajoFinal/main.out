@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{Introducci\363n}{}% 1
+\BOOKMARK [1][-]{section.2}{Antecedentes}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Virtualizaci\363n con contenedores}{section.2}% 3
+\BOOKMARK [1][-]{section.3}{An\341lisis}{}% 4
+\BOOKMARK [2][-]{subsection.3.1}{Ventajas}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.2}{Desventajas}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.3}{Comparativa entre distintas opciones}{section.3}% 7
+\BOOKMARK [3][-]{subsubsection.3.3.1}{RKT}{subsection.3.3}% 8
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Podman}{subsection.3.3}% 9
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Singularity}{subsection.3.3}% 10
+\BOOKMARK [1][-]{section.4}{Desarrollo: Ejemplos con Docker}{}% 11
+\BOOKMARK [2][-]{subsection.4.1}{Ejemplo 1: LAMP}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.2}{Ejemplo 2: Docker + Flask}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.3}{Ejemplo 3: Singularity}{section.4}% 14
+\BOOKMARK [1][-]{section.5}{Conclusiones}{}% 15

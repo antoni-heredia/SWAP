@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{merkel2014docker}
+Dirk Merkel.
+\newblock Docker: lightweight linux containers for consistent development and
+  deployment.
+\newblock {\em Linux journal}, 2014(239):2, 2014.
+
+\bibitem{rad2017introduction}
+Babak~Bashari Rad, Harrison~John Bhatti, and Mohammad Ahmadi.
+\newblock An introduction to docker and analysis of its performance.
+\newblock {\em International Journal of Computer Science and Network Security
+  (IJCSNS)}, 17(3):228, 2017.
+
+\bibitem{rktvsdocker}
+rkt.
+\newblock rkt vs other projects.
+\newblock {\em https://coreos.com/rkt/docs/latest/rkt-vs-other-projects.html}.
+
+\bibitem{smith2005virtual}
+J.~Smith and R.~Nair.
+\newblock {\em Virtual Machines: Versatile Platforms for Systems and
+  Processes}.
+\newblock ISSN. Elsevier Science, 2005.
+
+\bibitem{sysdigUsage}
+sysdig.
+\newblock 2018 docker usage report.
+\newblock {\em https://sysdig.com/blog/2018-docker-usage-report/}.
+
+\end{thebibliography}
